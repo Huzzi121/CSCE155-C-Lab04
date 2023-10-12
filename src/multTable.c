@@ -1,6 +1,6 @@
 /**
- * Author: 
- * Date: 
+ * Author: huzaifa ahmed
+ * Date: 10/12/2023
  *
  * This program generates a multiplication table
  * of the size given as a command line argument.
@@ -20,6 +20,7 @@ int main(int argc, char **argv) {
     printf("empty table!\n");
     exit(0);
   }
+
 
   //TODO: place your code here
 
